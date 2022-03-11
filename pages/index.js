@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Create Next App okay</title>
       </Head>
 
       <main className={styles.main}>
@@ -15,7 +15,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          <code className={styles.code}>pages/index.js </code>
         </p>
 
         <div className={styles.grid}>
